@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React amd everything related to full stack web application
 - 💞️ I’m looking to collaborate on side hustle projects
 - 📫 Reach me @legrand.lucas0.com
-- ⚡ Fun fact: I used to be a pro gamer
+- ⚡ Fun fact: I used to be manager of pro gamers
 
 <!---
 Pouetpouets/Pouetpouets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
