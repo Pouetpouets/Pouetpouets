@@ -1,11 +1,23 @@
-- 👋 Hi, I’m Lucas Legrand @Pouetpouets
-- 👀 I’m interested in web development, hiking, esport
-- 🌱 I’m currently learning React amd everything related to full stack web application
-- 💞️ I’m looking to collaborate on side hustle projects
-- 📫 Reach me @legrand.lucas0.com
-- ⚡ Fun fact: I used to be manager of pro gamers
+# Hi there 👋
 
-<!---
-Pouetpouets/Pouetpouets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+### About Me
+- 🔭 I'm currently working on creating better code with AI assistance
+- 🌱 I'm always learning and exploring new technologies
+- 💬 Ask me about web development and AI
+- 📫 How to reach me: through GitHub
+
+### Fun Fact
+⚡ I still don't know how to setup ESLint and Prettier in VSCode (and at this point, I'm too afraid to ask)
+
+### Tech Stack
+- Frontend: React, TypeScript, Tailwind CSS
+- Tools: Git, VSCode
+- Currently exploring: AI-assisted development
+
+### Projects
+- Check out my repositories below to see what I'm working on!
+
+---
+*Feel free to connect and collaborate!*
