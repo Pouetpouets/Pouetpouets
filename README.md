@@ -1,7 +1,5 @@
 # Hi there 👋
 
-Welcome to my GitHub profile!
-
 ### About Me
 - 🔭 I'm currently working on creating better code with AI assistance
 - 🌱 I'm always learning and exploring new technologies
@@ -15,9 +13,3 @@ Welcome to my GitHub profile!
 - Frontend: React, TypeScript, Tailwind CSS
 - Tools: Git, VSCode
 - Currently exploring: AI-assisted development
-
-### Projects
-- Check out my repositories below to see what I'm working on!
-
----
-*Feel free to connect and collaborate!*
