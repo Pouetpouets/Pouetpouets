@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hi there 👋
 
 ## About Me
 * 🔭 I'm currently working on creating better code with AI assistance
